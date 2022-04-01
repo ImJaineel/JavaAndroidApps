@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="welcome_to_music">Welcome to Music</string>
+    <string name="button">PAUSE</string>
+    <string name="todo">TODO</string>
+</resources>
